@@ -1,0 +1,26 @@
+
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License v3.0"
+[[mods]]
+modId="mware"
+version="${file.jarVersion}"
+displayName="My Ware"
+logoFile="items/ironm.png"
+credits="Thanks for this example mod goes to Java "
+authors="Devan FOURNIER and Diego Valla"
+description='''
+This is a mod that implements new weapons and armor.
+'''
+[[dependencies.mware]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.mware]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "12"
+  ],
+  "key": {
+    "1": {
+      "item": "mware:forged_steel"
+    },
+   "key": {
+      "2": {
+        "item": "minecraft:anvil"
+      }
+  },
+  "result": {
+    "item": "mware:anvil_station_block",
+    "count": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "itemGroup.tutorialtab": "First mod shields",
+
+  "item.mware.steel": "Steel",
+  "item.mware.icon": "Icon",
+  "item.mware.forged_steel": "Forged steel",
+  "item.mware.hammer": "Hammer",
+
+  "item.mware.forged_steel_helmet": "Forged steel helmet",
+  "item.mware.forged_steel_leggings": "Forged steel leggings",
+  "item.mware.forged_steel_chestplate": "Forged steel chestplate",
+  "item.mware.forged_steel_boots": "Forged steel boots",
+  "item.mware.rare_forged_steel_helmet": "Rare forged steel helmet",
+  "item.mware.rare_forged_steel_leggings": "Rare forged steel leggings",
+  "item.mware.rare_forged_steel_chestplate": "Rare forged steel chestplate",
+  "item.mware.rare_forged_steel_boots": "Rare forged steel boots",
+
+  "item.mware.forged_steel_sword": "Forged steel sword",
+
+  "item.mware.forged_steel_block": "Forged steel block",
+
+  "block.mware.anvil_station_block": "Blacksmith's anvil",
+  "block.mware.forged_steel_block": "Forged steel block"
+}

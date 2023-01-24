@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 10,
+  "cookingtime": 1000,
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": "mware:steel"
+}
